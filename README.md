@@ -3,7 +3,7 @@ This repository contains exploratory data analysis (EDA) performed on a dataset 
 
 Contents
 Dataset: A CSV file containing data about Netflix movies.
-Notebook: Jupyter Notebook (Netflix_EDA.ipynb) with detailed analysis and visualizations.
+Notebook: Jupyter Notebook (EDAAnalysis.ipynb) with detailed analysis and visualizations.
 Visualizations: Various plots generated during the analysis to illustrate key findings.
 Analysis Overview
 The analysis covers the following aspects:
